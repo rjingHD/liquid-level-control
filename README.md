@@ -1,8 +1,11 @@
 # liquid-level-control
 
+## Desription:
 Liquid level control designed in LabVIEW 2017 with iDAQ-USB-6009.
 
-A project for the final project of Comprehensive Practice Ability training of instrumentation (测控技术综合实践能力训练) at Shandong University.
+The final project of Comprehensive Practice Ability training of instrumentation (仪器仪表综合实践能力训练) at Shandong University.
+
+2018.12 - 2019.01
 
 Demo video:
 
