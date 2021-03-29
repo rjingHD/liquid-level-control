@@ -3,7 +3,7 @@
 ## Desription:
 Liquid level control designed in LabVIEW 2017 with iDAQ-USB-6009.
 
-The final project of Comprehensive Practice Ability training of instrumentation (仪器仪表综合实践能力训练) at Shandong University.
+The final project of Comprehensive Practice Ability Training of Instrumentation (仪器仪表综合实践能力训练) at Shandong University.
 
 2018.12 - 2019.01
 
