@@ -5,4 +5,4 @@ A project for the final project of Comprehensive Practice Ability training of in
 
 Demo video:
 
-[](https://drive.google.com/file/d/1_FaEY1zRSU-ngbNBynQssUkcvxNjQ8Ti/view?usp=sharing)
+[liquid level control demo](https://drive.google.com/file/d/1_FaEY1zRSU-ngbNBynQssUkcvxNjQ8Ti/view?usp=sharing)
